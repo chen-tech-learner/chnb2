@@ -1,7 +1,7 @@
 {
     "sites":[
         {
-            "key": "牛二猫源",
+		    "key": "牛二猫源",
             "name": "牛二猫源",
 		    "type": 3,
             "api": "https://9280.kstore.vip/cat/index.js",
