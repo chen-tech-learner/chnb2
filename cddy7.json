@@ -227,12 +227,6 @@
   ],
   "lives": [
     {
-      "name": "风云源 永久免费如有收费的都是骗子｜Tg：@huliys9",
-      "type": 0,
-      "ua": "okhttp",
-      "url": "http://iptv.4666888.xyz/FYTV.txt"
-    },
-    {
       "name": "咪咕直播｜Tg：@huliys9",
       "type": 0,
       "ua": "okhttp/5.3.2",
@@ -245,100 +239,10 @@
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/jia070310/lemonTV/refs/heads/main/iptv-fe.m3u"
     },
     {
-      "name": "小新TV｜Tg：@huliys9",
-      "type": 0,
-      "ua": "okhttp/5.3.2",
-      "url": "https://d.kstore.dev/download/9565/小新TV.txt"
-    },
-    {
-      "name": "外国1",
-      "type": 0,
-      "ua": "okhttp",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fleung49/star/refs/heads/main/mit"
-    },
-    {
-      "name": "台湾台｜Tg：@huliys9",
-      "type": 0,
-      "ua": "okhttp",
-      "url": "https://epg.pw/test_channels_taiwan.m3u"
-    },
-    {
-      "name": "体育台｜Tg：@huliys9",
-      "type": 0,
-      "ua": "okhttp",
-      "url": "http://82.156.243.185:33389/fwc.m3u"
-    },
-    {
-      "name": "裤佬TV2｜Tg：@huliys9",
-      "type": 0,
-      "ua": "okhttp",
-      "url": "https://tv.tmxk.kdns.fr/ex64181y"
-    },
-    {
-      "name": "live.m3u｜Tg：@huliys9",
-      "type": 0,
-      "ua": "okhttp",
-      "url": "https://live.445569.xyz/live.m3u"
-    },
-    {
-      "name": "Gather｜Tg：@huliys9",
-      "type": 0,
-      "ua": "okhttp",
-      "url": "https://iptv.yang-1989.eu.org/m3u/Gather.m3u"
-    },
-    {
-      "name": "Mytv｜Tg：@huliys9",
-      "type": 0,
-      "ua": "okhttp",
-      "url": "https://cdn.qd.je/live.m3u"
-    },
-    {
-      "name": "咪咕1",
-      "type": 0,
-      "ua": "okhttp",
-      "url": "http://xiang.hyperphp.com/migu.txt"
-    },
-    {
-      "name": "黄蚂蚁先锋推流源｜Tg：@huliys9",
-      "type": 0,
-      "ua": "okhttp",
-      "url": "http://ge.html-5.me//ii/黄蚂蚁先锋推流源.txt"
-    },
-    {
       "name": "全国组播",
       "type": 0,
       "ua": "okhttp",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt"
-    },
-    {
-      "name": "俄罗斯源 有🔞｜Tg：@huliys9",
-      "type": 0,
-      "ua": "okhttp",
-      "url": "https://ilook.epg.one/EDTZN7ANS84N86"
-    },
-    {
-      "name": "港奥台国际｜Tg：@huliys9",
-      "type": 0,
-      "ua": "okhttp",
-      "url": "http://tv123.vvvv.ee/tv.m3u"
-    },
-    {
-      "name": "中港台直播源｜Tg：@huliys9",
-      "type": 0,
-      "ua": "okhttp",
-      "url": "https://t.freetv.fun/m3u/playlist_all.txt"
-    },
-    {
-      "name": "直播2",
-      "type": 0,
-      "ua": "okhttp",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/cdlongbow/atsushi444-iptv/refs/heads/main/xxx.m3u"
-    },
-    {
-      "name": "4GTV(免梯子)1080p｜Tg：@huliys9",
-      "type": 0,
-      "ua": "okhttp",
-      "url": "http://4gtv.cnlive.club/4gtv.m3u"
     },
     {
       "name": "DG直播",
@@ -351,24 +255,6 @@
       "type": 0,
       "ua": "okhttp",
       "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/cyh92/live/refs/heads/main/source/migu.m3u"
-    },
-    {
-      "name": "欧美大片直播🔞｜Tg：@huliys9",
-      "type": 0,
-      "ua": "okhttp",
-      "url": "http://xtvantsc.xyz/欧美2160.m3u"
-    },
-    {
-      "name": "欧美主播直播🔞｜Tg：@huliys9",
-      "type": 0,
-      "ua": "okhttp",
-      "url": "https://chaturbate.xvideos4.tk/api5.php?m3u&all"
-    },
-    {
-      "name": "亚洲主播直播🔞｜Tg：@huliys9",
-      "type": 0,
-      "ua": "okhttp",
-      "url": "https://chaturbate.xvideos4.tk/api6.php?m3u"
     }
   ],
   "parses": [
